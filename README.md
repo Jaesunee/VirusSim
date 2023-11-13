@@ -8,4 +8,8 @@ This project is focused on analysing how a SARS virus spread over different type
 2. An analysis of the simulating virus spread over the networks. 
 
 ## Running the Simulations
-Anyone can try running the simulations themselves by first importing the dataset (or another one of your choosing), and then running the Matlab scripts.
+Anyone can try running the simulations themselves by doing the following:
+1. [Install Matlab](https://www.mathworks.com/help/install/)
+2. [Clone the project](https://github.com/Jaesunee/VirusSim.git)
+3. Import the given dataset or one of your own choosing.
+5. Run the Matlab scripts.
