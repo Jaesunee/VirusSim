@@ -4,7 +4,7 @@
 Final project for Applied Discrete Mathematics (APPM 3170).  
 
 This project is focused on analysing how a SARS virus spread over different types of graph networks. More details can be found in the writeups, which are divided into two parts: 
-1. A comparison of the two types of networks
+1. A comparison of the two types of networks - co-presence and face-to-face networks
 2. An analysis of the simulating virus spread over the networks. 
 
 ## Running the Simulations
